@@ -1,0 +1,19 @@
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\bin\Debug\SparkSnake.exe.config
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\bin\Debug\SparkSnake.exe
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\bin\Debug\SparkSnake.pdb
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\obj\Debug\SparkSnake.csprojResolveAssemblyReference.cache
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\obj\Debug\SparkSnake.exe
+c:\users\jackjan\documents\visual studio 2013\Projects\SparkSnake\SparkSnake\obj\Debug\SparkSnake.pdb
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\obj\Debug\SparkSnake.csprojAssemblyReference.cache
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\obj\Debug\SparkSnake.csproj.CoreCompileInputs.cache
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\bin\Debug\LightOff.exe
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\bin\Debug\LightOff.pdb
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\obj\Debug\LightOff.exe
+C:\Users\ran70\Desktop\‏‏SparkSnake - עותק\SparkSnake\src\SparkSnake\obj\Debug\LightOff.pdb
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\bin\Debug\LightOff.exe
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\bin\Debug\LightOff.pdb
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\obj\Debug\SparkSnake.csprojAssemblyReference.cache
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\obj\Debug\SparkSnake.csproj.CoreCompileInputs.cache
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\obj\Debug\LightOff.exe
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\obj\Debug\LightOff.pdb
+C:\Users\ran70\Desktop\miceLightOff\miceLightOff\src\SparkSnake\obj\Debug\SparkSnake.csproj.CopyComplete

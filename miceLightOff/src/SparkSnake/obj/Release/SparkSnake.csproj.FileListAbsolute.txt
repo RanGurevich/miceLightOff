@@ -1,0 +1,6 @@
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\bin\Release\SparkSnake.exe.config
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\bin\Release\SparkSnake.exe
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\bin\Release\SparkSnake.pdb
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\obj\Release\SparkSnake.csprojResolveAssemblyReference.cache
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\obj\Release\SparkSnake.exe
+C:\Users\Jackjan\Documents\Visual Studio 2013\Projects\SparkSnake\SparkSnake\obj\Release\SparkSnake.pdb
